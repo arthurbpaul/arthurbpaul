@@ -46,5 +46,3 @@
 
 
 <br> 
-<!--Linguagens-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbp08&theme=midnight-purple)](https://github.com/arthurbp08/github-readme-stats)
