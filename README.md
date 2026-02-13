@@ -2,20 +2,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b&label=Profile%20views&color=8718e2&style=flat-square" alt="arthurbp08" /> </p>
 
-### Um pouco sobre mim
+### About Me
 <!-- <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src=""/> -->
 
 <p align="justify">
  My name is Arthur Bernardo Paul, I am from Santa Maria, Rio Grande do Sul, Brazil, born in 2008. I graduated from the Technical Course in Information Technology for the Internet at the <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM).
 </p>
 
-## Contato
+## Contact
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurbernardopaul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bernardo-paul-0ab9a61b1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurbp__/)
 
-## Estudei
+## Education
 <div display="inline-block">
     <!--html-->
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,7 +36,7 @@
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B& logoColor=white"/>
 </div>
 
-## Estudando
+## Currently Learning
 <div display="inline-block">
     <!--java-->
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
