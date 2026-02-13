@@ -6,7 +6,7 @@
 <!-- <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src=""/> -->
 
 <p align="justify">
-  Me chamo Arthur Bernardo Paul, sou natural de Santa Maria, Rio Grande do Sul, Brasil, nasci em 2008. Sou formado no curso Técnico em Informática para a Internet pelo <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM).
+ My name is Arthur Bernardo Paul, I am from Santa Maria, Rio Grande do Sul, Brazil, born in 2008. I graduated from the Technical Course in Information Technology for the Internet at the <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM).
 </p>
 
 ## Contato
